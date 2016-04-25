@@ -10,6 +10,6 @@ h1 {font-family: Francois One}
   p {font-size: 14px; font-family: Paytone One;}
 </style>
 <h1 class="green-text">PBS Level Calculator<h1>
-  <img class="smaller-image border" src="http://artatm.com/wp-content/uploads/2012/02/pbs-logo.jpg">
+  <img class="smaller-image border" src="http://artatm.com/wp-content/uploads/2012/02/pbs-logo.jpg" alt="Retro PBS Logo">
 <p class="purple-text">Lorem Ipsum body text</p>
 <p class="red-text">Lorem Ipsum body text 2</p>
