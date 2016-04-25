@@ -1,0 +1,15 @@
+<link href="https://fonts.googleapis.com/css?family=Francois+One" rel="stylesheet" type="text/css">
+<link href="https://fonts.googleapis.com/css?family=Paytone+One" rel="stylesheet" type="text/css">
+<style>
+    .purple-text {color: purple}
+    .green-text {color: green}
+    .red-text {color: red}
+    .smaller-image {width: 200px}
+    .border {border-color: purple; border-width: 2px; border-style: solid; border-radius: 10%}
+h1 {font-family: Francois One}
+  p {font-size: 14px; font-family: Paytone One;}
+</style>
+<h1 class="green-text">PBS Level Calculator<h1>
+  <img class="smaller-image border" src="http://artatm.com/wp-content/uploads/2012/02/pbs-logo.jpg">
+<p class="purple-text">Lorem Ipsum body text</p>
+<p class="red-text">Lorem Ipsum body text 2</p>
